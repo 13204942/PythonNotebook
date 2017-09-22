@@ -25,5 +25,8 @@ First, ensure that you have the latest pip; older versions may have trouble with
 pip3 install --upgrade pip
 ~~~
 Then install the Jupyter Notebook using:
+~~~
 pip3 install jupyter
+~~~
 (Use pip if using legacy Python 2.)
+Then you have installed Jupyter Notebook.
